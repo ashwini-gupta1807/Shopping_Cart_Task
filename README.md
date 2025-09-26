@@ -27,15 +27,12 @@ lib/
     utils/            # Constants, helpers, etc.
     widgets/          # Shared widgets (e.g., checkout bar)
   features/
-    home/
+    home and cart/
       application/    # Notifiers (state management)
       domain/         # Models, abstract classes
       infra/          # Implementations (e.g., asset-based services)
       presentation/   # UI screens & widgets
       shared/         # Providers
-    cart/
-      application/    # Cart notifier
-      domain/         # Cart item model
   gen/                # Generated assets (FlutterGen)
 assets/
   json/               # Mock data (spa list, spa details)
