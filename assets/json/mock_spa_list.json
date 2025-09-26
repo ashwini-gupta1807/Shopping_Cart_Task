@@ -1,0 +1,82 @@
+[
+  {
+    "id": "spa_1",
+    "name": "Renew Day Spa",
+    "address": "1208, Spline Arcade, Flat no 102 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+    "category": "Unisex",
+    "rating": 4.5,
+    "distance_km": 3.5,
+    "offers": "Flat 10% Off above value of 200",
+    "image": "assets/images/renew_day_spa.png"
+  },
+  {
+    "id": "spa_2",
+    "name": "Mystical Mantra Spa",
+    "address": "1208, Spline Arcade, Flat no 102 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+    "category": "Male",
+    "rating": 4.5,
+    "distance_km": 3.5,
+    "offers": "",
+    "image": "assets/images/mystical_mantra_spa.png"
+  },
+  {
+    "id": "spa_3",
+    "name": "Bodhi Retreat Spa",
+    "address": "1208, Spline Arcade, Flat no 102 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+    "category": "Female",
+    "rating": 4.5,
+    "distance_km": 3.5,
+    "offers": "Flat 10% Off above value of 200",
+    "image": "assets/images/bodhi_retreat_spa.png"
+  },
+  {
+    "id": "spa_4",
+    "name": "Eternal Bliss Ayurvedic Spa",
+    "address": "1208, Spline Arcade, Flat no 102 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+    "category": "Unisex",
+    "rating": 4.5,
+    "distance_km": 3.5,
+    "offers": "",
+    "image": "assets/images/eternal_bliss_ayurvedic_spa.png"
+  },
+  {
+    "id": "spa_1",
+    "name": "Renew Day Spa",
+    "address": "1208, Spline Arcade, Flat no 102 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+    "category": "Unisex",
+    "rating": 4.5,
+    "distance_km": 3.5,
+    "offers": "Flat 10% Off above value of 200",
+    "image": "assets/images/renew_day_spa.png"
+  },
+  {
+    "id": "spa_2",
+    "name": "Mystical Mantra Spa",
+    "address": "1208, Spline Arcade, Flat no 102 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+    "category": "Male",
+    "rating": 4.5,
+    "distance_km": 3.5,
+    "offers": "",
+    "image": "assets/images/mystical_mantra_spa.png"
+  },
+  {
+    "id": "spa_3",
+    "name": "Bodhi Retreat Spa",
+    "address": "1208, Spline Arcade, Flat no 102 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+    "category": "Female",
+    "rating": 4.5,
+    "distance_km": 3.5,
+    "offers": "Flat 10% Off above value of 200",
+    "image": "assets/images/bodhi_retreat_spa.png"
+  },
+  {
+    "id": "spa_4",
+    "name": "Eternal Bliss Ayurvedic Spa",
+    "address": "1208, Spline Arcade, Flat no 102 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+    "category": "Unisex",
+    "rating": 4.5,
+    "distance_km": 3.5,
+    "offers": "",
+    "image": "assets/images/eternal_bliss_ayurvedic_spa.png"
+  }
+]

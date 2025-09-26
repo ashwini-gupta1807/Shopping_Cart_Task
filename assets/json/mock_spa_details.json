@@ -1,0 +1,246 @@
+{
+  "generated_at": "2025-09-25T00:00:00Z",
+  "spas": [
+    {
+      "id": "spa_1",
+      "name": "Renew Day Spa",
+      "address": "1208, Spline Arcade, Flat no 102 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+      "location": "Madhapur",
+      "phone": "+91-9000000001",
+      "rating": 4.5,
+      "distance_km": 3.5,
+      "image": "assets/images/spa_details_main_image.png",
+      "banner_image": "assets/images/banner_image.jpg",
+      "offers": {
+        "code": "DSaloon",
+        "description": "Get ₹500 off on orders above 100/-"
+      },
+      "categories": [
+        {
+          "id": "cat_massage",
+          "name": "Massage Therapy",
+          "services": [
+            {
+              "id": "srv_1",
+              "name": "Swedish Massage",
+              "price": 4000,
+              "duration_minutes": 60,
+              "gender": "Unisex",
+              "mode": "Walk-in",
+              "description": "Relaxing full-body massage with long strokes and gentle kneading.",
+              "image": "assets/images/swedish_massage.jpg"
+            },
+            {
+              "id": "srv_2",
+              "name": "Deep Tissue Massage",
+              "price": 6200,
+              "duration_minutes": 60,
+              "gender": "Unisex",
+              "mode": "Walk-in",
+              "description": "Targets deeper muscle layers to release chronic tension and knots.",
+              "image": "assets/images/deep_tissue.jpg"
+            },
+            {
+              "id": "srv_3",
+              "name": "Hot Stone Massage",
+              "price": 8500,
+              "duration_minutes": 60,
+              "gender": "Unisex",
+              "mode": "Home-visit",
+              "description": "Heated stones placed on body for relaxation and better circulation.",
+              "image": "assets/images/hot_stone.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cat_hair",
+          "name": "Hair Cut, Wash & Style",
+          "services": [
+            {
+              "id": "srv_4",
+              "name": "Hair Cut + Wash",
+              "price": 1500,
+              "duration_minutes": 45,
+              "gender": "Unisex",
+              "mode": "Walk-in",
+              "description": "Professional haircut with wash and basic styling.",
+              "image": "assets/images/haircut.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cat_nail",
+          "name": "Nail Bar",
+          "services": [
+            {
+              "id": "srv_5",
+              "name": "Classic Manicure & Pedicure",
+              "price": 1000,
+              "duration_minutes": 30,
+              "gender": "Female",
+              "mode": "Walk-in",
+              "description": "Manicure and pedicure with nail styling and polish.",
+              "image": "assets/images/nailbar.jpg"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "spa_2",
+      "name": "Mystical Mantra Spa",
+      "address": "1208, Spline Arcade, Flat no 103 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+      "location": "Madhapur",
+      "phone": "+91-9000000002",
+      "rating": 4.5,
+      "distance_km": 3.5,
+      "image": "assets/images/spa_details_main_image.png",
+      "banner_image": "assets/images/banner_image.jpg",
+      "offers": null,
+      "categories": [
+        {
+          "id": "cat_massage",
+          "name": "Massage Therapy",
+          "services": [
+            {
+              "id": "srv_6",
+              "name": "Aromatherapy Massage",
+              "price": 3500,
+              "duration_minutes": 60,
+              "gender": "Unisex",
+              "mode": "Walk-in",
+              "description": "Massage with essential oils for relaxation and mood enhancement.",
+              "image": "assets/images/aromatherapy.jpg"
+            },
+            {
+              "id": "srv_7",
+              "name": "Thai Massage",
+              "price": 5000,
+              "duration_minutes": 75,
+              "gender": "Unisex",
+              "mode": "Walk-in",
+              "description": "Traditional Thai stretching and acupressure techniques.",
+              "image": "assets/images/thai_massage.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cat_hair",
+          "name": "Hair Cut, Wash & Style",
+          "services": []
+        },
+        {
+          "id": "cat_nail",
+          "name": "Nail Bar",
+          "services": []
+        }
+      ]
+    },
+
+    {
+      "id": "spa_3",
+      "name": "Bodhi Retreat Spa",
+      "address": "1208, Spline Arcade, Flat no 104 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+      "location": "Madhapur",
+      "phone": "+91-9000000003",
+      "rating": 4.5,
+      "distance_km": 3.5,
+      "image": "assets/images/spa_details_main_image.png",
+      "banner_image": "assets/images/banner_image.jpg",
+      "offers": {
+        "code": "BDH10",
+        "description": "Flat 10% off above ₹200"
+      },
+      "categories": [
+        {
+          "id": "cat_massage",
+          "name": "Massage Therapy",
+          "services": []
+        },
+        {
+          "id": "cat_hair",
+          "name": "Hair Cut, Wash & Style",
+          "services": []
+        },
+        {
+          "id": "cat_nail",
+          "name": "Nail Bar",
+          "services": [
+            {
+              "id": "srv_8",
+              "name": "Facial Glow Treatment",
+              "price": 2200,
+              "duration_minutes": 50,
+              "gender": "Female",
+              "mode": "Walk-in",
+              "description": "Advanced facial for glowing and refreshed skin.",
+              "image": "assets/images/facial_glow.jpg"
+            },
+            {
+              "id": "srv_9",
+              "name": "Body Scrub & Wrap",
+              "price": 4000,
+              "duration_minutes": 70,
+              "gender": "Female",
+              "mode": "Walk-in",
+              "description": "Full body exfoliation followed by hydrating wrap.",
+              "image": "assets/images/body_scrub.jpg"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "spa_4",
+      "name": "Eternal Bliss Ayurvedic Spa",
+      "address": "1208, Spline Arcade, Flat no 105 1st Floor Plot no, Ayyappa Society, Hyderabad, Telangana 500081",
+      "location": "Madhapur",
+      "phone": "+91-9000000004",
+      "rating": 4.5,
+      "distance_km": 3.5,
+      "image": "assets/images/spa_details_main_image.png",
+      "banner_image": "assets/images/banner_image.jpg",
+      "offers": null,
+      "categories": [
+        {
+          "id": "cat_massage",
+          "name": "Massage Therapy",
+          "services": [
+            {
+              "id": "srv_10",
+              "name": "Ayurvedic Abhyanga",
+              "price": 4500,
+              "duration_minutes": 60,
+              "gender": "Unisex",
+              "mode": "Walk-in",
+              "description": "Full body massage with herbal oils to balance energies.",
+              "image": "assets/images/abhyanga.jpg"
+            },
+            {
+              "id": "srv_11",
+              "name": "Shirodhara",
+              "price": 6000,
+              "duration_minutes": 60,
+              "gender": "Unisex",
+              "mode": "Home-visit",
+              "description": "Warm herbal oil poured on forehead for relaxation and stress relief.",
+              "image": "assets/images/shirodhara.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cat_hair",
+          "name": "Hair Cut, Wash & Style",
+          "services": []
+        },
+        {
+          "id": "cat_nail",
+          "name": "Nail Bar",
+          "services": []
+        }
+      ]
+    }
+  ]
+}
